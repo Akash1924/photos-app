@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.thumbnail {
+  width: 150px;
+}
